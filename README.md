@@ -1,6 +1,8 @@
 # NIP rent
 
 Aplikacja do rozliczania najmowanych mieszkań.
+Możesz dopisać fragment tekstu dotyczący stuktury projektu. Następnie zatwierdź zmiany, klikając 'Commit changes'. Wprowadź wiadomość commita i kliknij 'Commit changes'.
+
 
 ## Getting started
 
